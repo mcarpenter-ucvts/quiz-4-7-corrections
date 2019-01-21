@@ -14,7 +14,7 @@
 04. "===", "==", "!==", and "!=" are not correct because they are not logical operators. They are valid relational operators.
 07. The second answer is correct because it is the simplest way to achieve the goal. It simply uses relational operators instead of both relational and logical. Using logical operators add more work and confusion. It is simply not necessary to use logical operators to achieve the goal.
 08. The first answer is correct because the break statements are imperative to switch statements. If the break statements are not there the statement will execute code for multiple cases. We need the break so that the code found in the particular case is executed and only that code.
-11.
+11. 
 
 ### Quiz 6
 
